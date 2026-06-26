@@ -1,0 +1,53 @@
+[
+  {
+    "ticker": "GOOGL",
+    "logo": "/images/screen-utama/top-three/googl.png",
+    "rank": 1,
+    "mentionCount": 927,
+    "priceChange": { "value": 6.7, "direction": "down" },
+    "platformMentions": [
+      { "icon": "/images/screen-utama/icons/mention-flag-1.png", "label": "YouTube", "count": 86 },
+      { "icon": "/images/screen-utama/icons/mention-flag-2.png", "label": "Reddit",  "count": 550 },
+      { "icon": "/images/screen-utama/icons/mention-flag-3.png", "label": "X",       "count": 291 }
+    ],
+    "unusualSpike": "82% mentions from new accounts",
+    "sentiment": { "positive": 30, "negative": 55, "neutral": 15 },
+    "credibility": { "verified": 55, "unverified": 45 },
+    "description": "GOOGL shares are under pressure as rising capital expenditure for AI infrastructure sparks investor concerns over short-term free cash flow. A broadening AI cloud price war has further fueled negative sentiment regarding potential margin compression.",
+    "tags": ["CapEx Surge", "AI Price War", "Margin Compression"]
+  },
+  {
+    "ticker": "AMZN",
+    "logo": "/images/screen-utama/top-three/amzn.png",
+    "rank": 2,
+    "mentionCount": 901,
+    "priceChange": { "value": 8.4, "direction": "up" },
+    "platformMentions": [
+      { "icon": "/images/screen-utama/icons/mention-flag-1.png", "label": "YouTube", "count": 106 },
+      { "icon": "/images/screen-utama/icons/mention-flag-2.png", "label": "Reddit",  "count": 445 },
+      { "icon": "/images/screen-utama/icons/mention-flag-3.png", "label": "X",       "count": 350 }
+    ],
+    "unusualSpike": null,
+    "sentiment": { "positive": 65, "negative": 20, "neutral": 15 },
+    "credibility": { "verified": 68, "unverified": 32 },
+    "description": "Amazon stock rallied significantly following a massive revenue spike in AWS driven by robust enterprise AI adoption. Furthermore, Amazon is expanding a multi-billion-dollar partnership with Anthropic.",
+    "tags": ["AWS Revenue Spike", "Anthropic Partnership", "Enterprise AI Adoption"]
+  },
+  {
+    "ticker": "AAPL",
+    "logo": "/images/screen-utama/top-three/aapl.png",
+    "rank": 3,
+    "mentionCount": 887,
+    "priceChange": { "value": 3.1, "direction": "down" },
+    "platformMentions": [
+      { "icon": "/images/screen-utama/icons/mention-flag-1.png", "label": "YouTube", "count": 100 },
+      { "icon": "/images/screen-utama/icons/mention-flag-2.png", "label": "Reddit",  "count": 220 },
+      { "icon": "/images/screen-utama/icons/mention-flag-3.png", "label": "X",       "count": 567 }
+    ],
+    "unusualSpike": "61% mentions from new accounts",
+    "sentiment": { "positive": 38, "negative": 35, "neutral": 27 },
+    "credibility": { "verified": 42, "unverified": 58 },
+    "description": "Apple registered a new 'genai.apple.com' web domain ahead of WWDC 2026, fueling anticipation for a privacy-focused Siri upgrade that integrates third-party AI extensions.",
+    "tags": ["WWDC 2026", "Siri AI Upgrade", "GenAI Domain"]
+  }
+]
